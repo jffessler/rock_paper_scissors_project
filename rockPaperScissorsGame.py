@@ -25,7 +25,7 @@ def rpsCountdown(choice):
 
     while choice != 'q':
         #Count down for move reveal
-        print("One the count of three and shoot!")
+        print("On the count of three and shoot!")
         time.sleep(0.5)
         print("1")
         time.sleep(0.5)
